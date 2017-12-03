@@ -1,0 +1,21 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "19": "assert/icon/19.png",
+         "38": "assert/icon/38.png"
+      },
+      "default_popup": "assert/popup.html"
+   },
+   "description": "Delete Slack Message and attachment in bulk automatically. Ultimately Safe Extension",
+   "icons": {
+      "128": "assert/icon/128.png",
+      "16": "assert/icon/16.png",
+      "32": "assert/icon/32.png",
+      "48": "assert/icon/48.png"
+   },
+   "manifest_version": 2,
+   "name": "Slack",
+   "permissions": [ "activeTab" ],
+   "version": "1.0.0",
+   "web_accessible_resources": [ "*" ]
+}
